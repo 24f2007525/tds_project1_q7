@@ -1,0 +1,8 @@
+{
+  "prompt": "A 1925 Soviet Constructivist poster by Alexander Rodchenko. No text, no labels. The composition represents a Transformer Architecture. Two tall, vertical towers of stacked black and white geometric rectangles (Encoder and Decoder) are connected by radiating, intersecting sharp red diagonal beams (Self-Attention). At the base, rhythmic repeating gear-notches provide a foundation (Positional Encoding). The layout is an aggressive diagonal composition with high contrast. Colors: flat signal red, deep black, and a background of aged, porous tan paper. Visible lithographic ink bleed and grainy paper texture. No gradients, no photography, no 3D shading.",
+  "model": "Imagen 3 (via Google AI Studio)",
+  "concept": "Transformer Architecture",
+  "tradition_name": "Soviet Constructivist posters",
+  "tradition_period": "1920s–1930s",
+  "tradition_approach": "Rodchenko-inspired diagonal composition using photomontage-style flat geometry, a restricted red-black-cream palette, and rhythmic mechanical repetition to mirror parallel processing blocks."
+}
